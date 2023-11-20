@@ -1,0 +1,48 @@
+Exercise 1: Data Loading and Inspection
+
+Load a CSV file called "data.csv" into a Pandas DataFrame. Then, perform the following tasks:
+
+Display the first 5 rows of the DataFrame.
+Display the basic statistics (mean, median, etc.) for numeric columns.
+
+Exercise 2: Data Selection and Filtering
+
+Using the DataFrame from Exercise 1, perform the following tasks:
+Select only the rows where the 'age' column is greater than 30.
+Filter the data to display only records where 'gender' is 'Female' and 'education' is 'Bachelor's Degree'.
+Create a new DataFrame that includes only the 'name' and 'salary' columns.
+Exercise 3: Data Aggregation and Grouping
+
+Using the same DataFrame, perform the following tasks:
+
+Group the data by 'gender' and calculate the average salary for each gender.
+Group the data by 'education' and find the maximum age for each education level.
+Calculate the total count of individuals for each combination of 'gender' and 'education'.
+Exercise 4: Data Cleaning and Transformation
+
+Load a new dataset or use the existing one from Exercise 1 and perform the following tasks:
+
+Remove duplicates from the dataset.
+Fill missing values in the 'income' column with the mean income.
+Create a new column 'age_group' that categorizes individuals into age groups (e.g., 'Under 30', '30-40', 'Over 40').
+Exercise 5: Data Visualization with Pandas
+
+Load a dataset and use Pandas for visualization. Create the following plots:
+
+A histogram of the 'age' column.
+A bar chart showing the count of each unique value in the 'education' column.
+A scatter plot of 'age' vs. 'income' with different colors for 'gender'.
+Exercise 6: Merging and Joining DataFrames
+
+Load two separate CSV files and perform the following tasks:
+
+Merge the two DataFrames using a common column (e.g., 'user_id').
+Join the DataFrames using a different column as the key.
+Calculate the average 'score' for each 'user_id' after merging the DataFrames.
+Exercise 7: Time Series Analysis
+
+Load a dataset with time series data and perform the following tasks:
+
+Convert a column with date strings into a datetime data type.
+Set the date column as the index of the DataFrame.
+Resample the data to calculate the monthly average.

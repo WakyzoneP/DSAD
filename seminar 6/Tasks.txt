@@ -1,0 +1,7 @@
+1. Creati un dataframe pornind de la fisierul incarcat.
+2. Afisati statistici descriptive despre data frame. 
+3. Calculati nr mediu de medici per judet. 
+4. Inlocuiti valorile lipsa cu media. 
+5. Standardizati datele.
+6. Calculul matricelor de corelație și covarianță.
+7.Aplicarea testelor de concordanță pentru verificarea distribuției normal-gaussiene. Vor fi folosite testele Shapiro și Kolmogorov-Smirnov și se va implementa testul Chi2.

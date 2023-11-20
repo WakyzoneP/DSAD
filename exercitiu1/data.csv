@@ -1,0 +1,101 @@
+student_id,first_name,last_name,age,email,country,postal_code,favorite_color,enrollment_date,gpa
+1,Allayne,Stigell,19,astigell0@naver.com,Poland,38-471,green,10/31/2021,1.04
+2,Kristofer,Radleigh,24,kradleigh1@loc.gov,Israel,,green,8/27/2021,0.76
+3,Dedra,Reynoollds,25,dreynoollds2@examiner.com,Portugal,4750-654,red,1/8/2021,3.49
+4,Devinne,Kewzick,19,dkewzick3@uiuc.edu,Portugal,2775-398,green,10/19/2020,0.89
+5,Bartel,Questier,24,bquestier4@freewebs.com,Indonesia,,red,6/6/2020,0.79
+6,Ruprecht,Gagie,24,rgagie5@prnewswire.com,Czech Republic,332 04,red,3/19/2021,3.21
+7,Siegfried,Cullinan,19,scullinan6@cbsnews.com,Nigeria,,green,6/10/2021,1.34
+8,Toddy,Braitling,21,tbraitling7@yahoo.com,Poland,34-721,red,8/28/2021,1.68
+9,Lorri,Surgeon,24,lsurgeon8@networksolutions.com,Iran,,red,12/23/2021,3.14
+10,Christie,Keam,25,ckeam9@w3.org,Mexico,29913,red,10/7/2020,1.2
+11,Karl,Szymanski,20,kszymanskia@usda.gov,Greece,,red,6/4/2021,3.52
+12,Simmonds,Creelman,20,screelmanb@economist.com,Kenya,,blue,10/26/2021,2.03
+13,Frederich,Spada,23,fspadac@cdbaby.com,Portugal,4810-050,red,10/29/2021,0.4
+14,Adelice,McKibbin,23,amckibbind@state.tx.us,Peru,,blue,10/7/2020,0.32
+15,Tristan,Darling,18,tdarlinge@ehow.com,Philippines,3801,green,4/30/2021,3.71
+16,Sadye,Greenman,25,sgreenmanf@about.com,Cuba,,green,7/3/2021,3.7
+17,Hasheem,Seefeldt,25,hseefeldtg@mashable.com,Germany,01189,red,9/19/2021,3.32
+18,Giraud,Breazeall,22,gbreazeallh@linkedin.com,Poland,32-840,green,12/13/2021,1.87
+19,Martita,Kincade,18,mkincadei@blogger.com,Latvia,,blue,6/28/2021,0.21
+20,Dyna,Pascoe,18,dpascoej@imgur.com,Indonesia,,green,8/28/2020,3.83
+21,Cora,Croxton,25,ccroxtonk@hibu.com,Brazil,55530-000,green,5/3/2020,2.74
+22,Leticia,Beretta,18,lberettal@blogspot.com,Indonesia,,green,2/11/2021,2.74
+23,Clerkclaude,Eldon,19,celdonm@weibo.com,China,,red,3/10/2021,0.54
+24,Aimee,Titterell,25,atitterelln@omniture.com,China,,blue,8/9/2020,1.63
+25,Gothart,Bonde,19,gbondeo@foxnews.com,Angola,,red,10/7/2021,2.89
+26,Gypsy,Garrelts,22,ggarreltsp@netscape.com,Slovenia,2390,red,1/24/2020,2.41
+27,Ysabel,Turpey,18,yturpeyq@unblog.fr,Russia,143969,blue,9/12/2020,1.15
+28,Rubetta,Drinkel,20,rdrinkelr@examiner.com,China,,blue,2/20/2021,3.44
+29,Demott,Beale,22,dbeales@cocolog-nifty.com,Thailand,93180,green,4/1/2021,3.58
+30,Windham,Dimberline,20,wdimberlinet@etsy.com,Sweden,447 82,blue,10/13/2021,0.94
+31,Sibeal,Angrock,21,sangrocku@jigsy.com,Greece,,blue,4/4/2020,1.5
+32,Madalyn,Curness,24,mcurnessv@abc.net.au,China,,red,10/30/2021,3.79
+33,Danica,Latour,21,dlatourw@scientificamerican.com,China,,red,4/14/2020,2.61
+34,Perl,Rohfsen,18,prohfsenx@webeden.co.uk,Japan,708-1104,blue,7/18/2020,0.97
+35,Nerita,O'Concannon,25,noconcannony@ameblo.jp,Indonesia,,blue,3/21/2021,2.17
+36,Sherill,Auston,24,saustonz@domainmarket.com,Liberia,,blue,2/6/2020,0.68
+37,Dalila,Mordecai,24,dmordecai10@ifeng.com,China,,blue,6/11/2021,3.75
+38,Thorstein,Curl,21,tcurl11@360.cn,Indonesia,,green,3/6/2021,2.1
+39,Brena,Vinall,24,bvinall12@about.com,China,,blue,5/15/2021,2.43
+40,Devland,Corah,23,dcorah13@lycos.com,Mexico,30505,green,6/15/2020,3.18
+41,Correy,Grafom,21,cgrafom14@stumbleupon.com,Guam,96928,red,7/26/2021,1.51
+42,Halette,Reicharz,18,hreicharz15@sciencedaily.com,Vietnam,,green,9/12/2020,3.6
+43,Claiborn,Doutch,21,cdoutch16@fotki.com,China,,red,5/25/2021,0.1
+44,Hewie,Danzig,25,hdanzig17@nih.gov,Argentina,6005,green,1/16/2021,3.24
+45,Gussi,Drewry,23,gdrewry18@indiatimes.com,Norway,1168,blue,1/20/2020,3.76
+46,Marlyn,Swatradge,21,mswatradge19@cnn.com,France,94542 CEDEX,red,3/8/2021,2.75
+47,Kelvin,Le Count,25,klecount1a@tiny.cc,Philippines,5807,blue,8/23/2021,2.49
+48,Harli,Vanyakin,21,hvanyakin1b@umn.edu,China,,blue,1/19/2021,3.96
+49,Terrill,Tiltman,20,ttiltman1c@spiegel.de,China,,green,9/26/2020,0.85
+50,Lucila,Prate,19,lprate1d@msn.com,China,,green,7/7/2021,3.68
+51,Elizabeth,Freezor,18,efreezor1e@nbcnews.com,China,,red,6/21/2020,3.4
+52,Prue,Whyley,20,pwhyley1f@feedburner.com,Sweden,761 31,red,6/19/2020,0.58
+53,Dorolice,Lamke,24,dlamke1g@tamu.edu,China,,green,4/4/2020,0.4
+54,Mag,Oris,19,moris1h@prweb.com,Indonesia,,red,7/11/2021,0.1
+55,Lucy,Driscoll,20,ldriscoll1i@pagesperso-orange.fr,Russia,403060,blue,4/1/2021,0.48
+56,Bliss,Truss,23,btruss1j@edublogs.org,China,,green,10/7/2021,2.98
+57,Jobey,Brook,21,jbrook1k@weather.com,United States,79764,green,1/23/2020,2.66
+58,Nickie,Brereton,23,nbrereton1l@smh.com.au,Portugal,4950-840,blue,7/10/2020,2.76
+59,Joyann,MacMeeking,20,jmacmeeking1m@smugmug.com,Indonesia,,red,1/11/2021,2.43
+60,Allayne,Jakubowski,18,ajakubowski1n@macromedia.com,United States,60630,red,4/23/2021,3.59
+61,Orran,Cosgrove,25,ocosgrove1o@forbes.com,Thailand,90160,red,12/28/2020,3.89
+62,Erny,Papaminas,25,epapaminas1p@boston.com,Ivory Coast,,red,10/30/2021,1.51
+63,Angel,Bustard,23,abustard1q@elpais.com,France,24212 CEDEX,green,4/20/2021,1.48
+64,Leeland,McCusker,25,lmccusker1r@globo.com,Philippines,9514,green,12/7/2020,3.54
+65,Noam,Paradise,18,nparadise1s@hhs.gov,United States,96850,green,4/6/2021,0.09
+66,Nanette,Ferentz,20,nferentz1t@whitehouse.gov,Poland,33-140,blue,4/6/2020,1.5
+67,Hatti,Lafont,21,hlafont1u@huffingtonpost.com,Iraq,,blue,10/17/2020,0.07
+68,Rianon,Stribling,24,rstribling1v@archive.org,Greece,,blue,5/5/2021,2.21
+69,Melvin,Bachellier,24,mbachellier1w@wordpress.org,Bulgaria,4939,blue,1/30/2020,1.38
+70,Edee,Artrick,18,eartrick1x@shinystat.com,Canada,S6J,green,5/6/2021,1.53
+71,Ashby,Blazy,20,ablazy1y@patch.com,Thailand,80140,red,3/7/2021,1.9
+72,Kit,Ellens,24,kellens1z@icio.us,Jamaica,,red,8/22/2020,3.14
+73,Elizabet,Kuhlen,19,ekuhlen20@imgur.com,Russia,361513,red,9/13/2021,3.05
+74,Teri,Flye,23,tflye21@pagesperso-orange.fr,Philippines,2508,blue,1/15/2021,2.73
+75,Kip,Mulvany,22,kmulvany22@unblog.fr,Mexico,54414,blue,2/19/2021,0.7
+76,Ashely,Bispo,18,abispo23@shutterfly.com,Indonesia,,green,1/31/2020,3.24
+77,Chrisy,Farrer,18,cfarrer24@blogtalkradio.com,Poland,05-509,blue,10/13/2021,2.21
+78,Pris,Pinney,18,ppinney25@amazon.co.uk,Greece,,red,2/12/2021,3.45
+79,Edyth,McKim,24,emckim26@netlog.com,Russia,655735,red,10/29/2020,1.97
+80,Kassi,Hinken,18,khinken27@accuweather.com,Brazil,89136-000,red,11/18/2021,0.29
+81,Brnaby,Nunn,25,bnunn28@twitter.com,France,33394 CEDEX,blue,3/25/2021,1.7
+82,Jacquelynn,Takle,25,jtakle29@nps.gov,Argentina,2823,red,11/14/2021,0.28
+83,Courtnay,Trevallion,22,ctrevallion2a@utexas.edu,China,,blue,4/20/2021,1.84
+84,Hillary,Haith,23,hhaith2b@deliciousdays.com,Malaysia,46781,blue,5/3/2021,3.55
+85,Sada,Dike,22,sdike2c@sakura.ne.jp,Russia,352195,green,10/26/2020,1.31
+86,Bernhard,Rembrandt,24,brembrandt2d@berkeley.edu,Russia,668134,green,3/30/2020,2.56
+87,Annie,Bownass,20,abownass2e@live.com,Indonesia,,blue,2/26/2020,3.29
+88,Frederica,McIlheran,22,fmcilheran2f@paginegialle.it,Russia,184653,green,11/1/2021,0.36
+89,Alexei,Daouze,24,adaouze2g@vistaprint.com,Czech Republic,586 01,green,7/31/2020,1.43
+90,Sandra,Franses,22,sfranses2h@washingtonpost.com,Morocco,,green,12/27/2020,2.33
+91,Valaria,Vaines,20,vvaines2i@house.gov,Venezuela,,red,12/18/2021,3.85
+92,Barry,Greenin,22,bgreenin2j@1und1.de,Indonesia,,green,3/10/2021,1.32
+93,Reube,Prowting,25,rprowting2k@bluehost.com,China,,green,8/14/2021,0.07
+94,Johann,Fairn,24,jfairn2l@yellowpages.com,Colombia,763547,blue,4/7/2020,1.02
+95,Lillis,MacElharge,22,lmacelharge2m@vimeo.com,Albania,,blue,3/21/2021,3.63
+96,Sean,Rudeyeard,24,srudeyeard2n@wordpress.com,China,,blue,6/3/2020,3.15
+97,Thain,Hanssmann,19,thanssmann2o@upenn.edu,Uzbekistan,,blue,2/16/2021,3.26
+98,Craggie,Duplain,24,cduplain2p@g.co,Tunisia,,red,4/11/2021,2.0
+99,Janeczka,Turfus,18,jturfus2q@unc.edu,Indonesia,,red,1/30/2020,2.72
+100,Hedwig,Sollis,21,hsollis2r@ycombinator.com,Morocco,,red,4/13/2021,1.75
