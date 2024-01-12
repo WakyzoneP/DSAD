@@ -1,0 +1,7 @@
+Cerinte proiect DSAD -- el a zis ca ne ia cam o zi sa il facem
+
+1.Cautati un set de date(Tempo,Eurostat)  //sa fie relevant pentru ce avem de facut
+2.Curatati setul de date + standardizare
+3.Problematica setului ( ex: eu am ales setul asta de date cu scopul .../am vrut sa vad... etc.)
+4.Analiza( explicatii de ce am folosit anumita varianta)
+5.Concluzii+ grafice.
