@@ -4,6 +4,7 @@ from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 from sklearn.cross_decomposition import CCA
 from scipy.stats import chi2
+import seaborn as sns
 
 data_frame = pd.read_csv("DataSet_34.csv", index_col=0)
 numeric_cols = data_frame.columns.tolist()
@@ -77,15 +78,16 @@ for i in range(m):
 plt.savefig('cercul_corelatiilor.png')
 
 # Trasre corelograma corelații variabile observate - variabile canonice ???
-# plt.figure(figsize=(8, 8))
-# plt.scatter(x_c[:, 0], y_c[:, 0], marker='o', color='b', label='Set X')
-# plt.scatter(x_c[:, 1], y_c[:, 1], marker='x', color='r', label='Set Y')
-# plt.xlabel('z1')
-# plt.ylabel('u1')
-# plt.grid()
-# plt.title('Corelograma corelațiilor')
-# plt.legend(loc='best')
-# plt.savefig('corelograma_corelatiilor.png')
+df = pd.DataFrame(
+    data=[x_loadings[:, 0], x_loadings[:, 1], y_loadings[:, 0], y_loadings[:, 1]],
+    index=["z1", "z2", "u1", "u2"],
+    columns=["x1", "x2", "y1", "y2"],
+)
+data = df.corr()
+plt.figure(figsize=[10, 10])
+sns.heatmap(data, annot=True, cmap="coolwarm", fmt=".2f")
+plt.title("Corelograma corelațiilor")
+plt.savefig("corelograma_corelatiilor.png")
 
 # Trasare plot instanțe în spațiile celor două variabile (Biplot)
 obs = data_frame.index.tolist()
